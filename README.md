@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @wetsuite
-- 👀 I’m interested in legal tech
-- 💞️ I’m looking to collaborate on:
+- 👋 Hi, we are @wetsuite
+- 👀 We work on legal tech
+- 💞️ We are looking to collaborate/contribute prior experience/resources in:
   - NLP
   - graphs
   - interoperability at scale, across ogranizational boundaries
-  - Achieving strategic outcomes delivered one tactical project at at time
-  - Collaboration across boundaries: academic, governmental, (not) for profit
-  - 📫 How to reach me pd20atae@duck.com
+  - building momentum around transformative digital capabilities
+  - collaborating across boundaries: academic, governmental, (not) for profit
+  - We heard about the wetsuite project and think this is a promising initiative.
+  - Looking for content on github, we noticed this user had yet to be registered.
+  - We are ready to contribute, including this real estate, to the incipient project.
+  - 📫 To get in touch, mail: pd20atae@duck.com
 
 <!---
 wetsuite/wetsuite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
